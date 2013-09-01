@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1375996596 source:d:\projects\code\codeblockstest\test01\baseclassext.cpp
+	"BaseClassExt.h"
+	<iostream>
+
+1375996770 d:\projects\code\codeblockstest\test01\baseclassext.h
+
+1375996596 source:d:\projects\code\codeblockstest\test01\main.cpp
+	<iostream>
+	<string>
+	"BaseClassExt.h"
+

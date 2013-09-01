@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1378070799 source:d:\projects\code\codeblockstest\tutorials\tutorials01\main.cpp
+	<iostream>
+	<string>
+	"PointerFuncts.h"
+
+1378066740 source:d:\projects\code\codeblockstest\tutorials\tutorials01\pointerfuncts.cpp
+	<iostream>
+	<string>
+	"PointerFuncts.h"
+
+1378066475 d:\projects\code\codeblockstest\tutorials\tutorials01\pointerfuncts.h
+

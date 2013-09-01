@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1377551077 source:d:\projects\code\codeblockstest\primetester\primetester\main.cpp
+	<iostream>
+	<string>
+	"PrimeClass.h"
+
+1377546463 d:\projects\code\codeblockstest\primetester\primetester\primeclass.h
+
+1377551070 source:d:\projects\code\codeblockstest\primetester\primetester\primeclass.cpp
+	"PrimeClass.h"
+	<iostream>
+
