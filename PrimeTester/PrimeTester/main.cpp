@@ -62,7 +62,7 @@ int checkPrime(int value)
 
 int main()
 {
-    int primeOne;5
+    int primeOne;
     int x=0;
     while(x == 0){
         cout << endl << "Enter a number or 0 to Quit"<< endl;
