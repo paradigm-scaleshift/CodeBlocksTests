@@ -11,15 +11,23 @@
 
 1378066475 d:\projects\code\codeblockstest\tutorials\tutorials01\pointerfuncts.h
 
-1378073650 source:d:\projects\code\codeblockstests\tutorials\tutorials01\main.cpp
+1378110490 source:d:\projects\code\codeblockstests\tutorials\tutorials01\main.cpp
 	<iostream>
 	<string>
 	"PointerFuncts.h"
+	"PrimeFunct.h"
 
 1378073315 d:\projects\code\codeblockstests\tutorials\tutorials01\pointerfuncts.h
 
-1378073177 source:d:\projects\code\codeblockstests\tutorials\tutorials01\pointerfuncts.cpp
+1378110404 source:d:\projects\code\codeblockstests\tutorials\tutorials01\pointerfuncts.cpp
 	<iostream>
 	<string>
 	"PointerFuncts.h"
+
+1378110501 d:\projects\code\codeblockstests\tutorials\tutorials01\primefunct.h
+
+1378110404 source:d:\projects\code\codeblockstests\tutorials\tutorials01\primefunct.cpp
+	"PrimeFunct.h"
+	<iostream>
+	<string>
 

@@ -6,6 +6,7 @@ class PrimeFunct
 {
     public:
         PrimeFunct();
+        int checkPrime(int value);
 
     private:
 };

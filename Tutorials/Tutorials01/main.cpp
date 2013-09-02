@@ -17,6 +17,7 @@ int main()
     cout << "Choose a program:" << endl;
     cout << "0) Quit" << endl;
     cout << "1) PointersTest01" << endl;
+    cout << "2) PrimeTest" << endl;
 
     cin >> choice;
 
@@ -29,7 +30,12 @@ int main()
             break;
         case 1:
             {
-                PointerFuncts pf;
+                PointerFuncts start;
+            }
+            break;
+        case 2:
+            {
+                PrimeFunct start;
             }
             break;
         default:

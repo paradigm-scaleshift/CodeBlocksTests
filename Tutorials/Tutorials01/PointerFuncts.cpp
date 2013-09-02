@@ -3,6 +3,9 @@
 
 #include "PointerFuncts.h"
 
+
+#define el << endl
+
 using namespace std;
 
 
@@ -17,7 +20,9 @@ PointerFuncts::PointerFuncts()
     cout << "a2=" << b << endl;
     cout << "a3=" << a[3] << endl;
 
-cout << endl << endl;
+cout << "Quiting Pointer Test...";
+cout el el ;
+cout <<"-------------------------------------" el el;
 
 };
 
